@@ -1,3 +1,6 @@
 .vs
 build
 **/output
+
+**/Revit_temp/**
+**/*_backup/**
